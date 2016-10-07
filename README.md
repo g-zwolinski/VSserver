@@ -1,2 +1,3 @@
 # VSserver
-# pamietajcie o komentarzach w commitach
+
+old server in NODE for my experimental websocket mmorpg game.
